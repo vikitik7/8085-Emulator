@@ -1,0 +1,21 @@
+Values in Registers:
+A : 00
+B : 01
+C : 00
+D : 00
+E : 00
+H : 00
+L : 00
+
+Values of Flags:
+Z  : 0
+S  : 0
+C  : 0
+P  : 1
+AC : 0
+
+Memory Locations Used:
+2500 : 01
+2501 : 02
+2502 : 03
+2503 : 00
